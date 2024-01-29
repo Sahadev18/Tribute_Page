@@ -1,0 +1,45 @@
+body{
+    padding: 20px;
+    margin: 0;
+    font-family: "monospace";
+    background: #393E46;
+  }
+  main{
+    border-radius: 8px;
+    padding: 40px;
+    background-color: #ade8f4;
+  }
+  #main h1, #desc, #timeline{
+    text-align: center;
+  }
+  #main h1{
+    font-size: 45px;
+  }
+  #img-div{
+    padding: 20px;
+    margin: 0 auto;
+    width: 95%;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  #tribute-info{
+    margin-top: 50px;
+  }
+  #list{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 60%
+  }
+  #quote{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 60%;
+    text-align: justify;
+  }
